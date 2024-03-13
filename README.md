@@ -20,11 +20,19 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<h3 align="left">📚 Dev blog </h3>
+<div align="left">
+  <a href="https://angelawoo215.github.io/">
+    <img
+      src="https://img.shields.io/badge/angelawoo215.github.io-0094ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
 <h3 align="left">✉️ Contact </h3>
 <div align="left">
   <a href="mailto:rubywoo0215@gmail.com">
     <img
-      src="https://img.shields.io/badge/rubywoo0215@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/rubywoo0215@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
