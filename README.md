@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-be22ff.svg?style=for-the-badge&logo=Slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Figma-ff279c.svg?style=for-the-badge&logo=Figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Zeplin-ff981f.svg?style=for-the-badge&logo=Zeplin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJIDEA-ff981f.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" />&nbsp
 </div>
 
 <h3 align="left">📚 Dev blog </h3>
