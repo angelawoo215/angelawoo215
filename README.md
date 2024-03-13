@@ -17,7 +17,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-be22ff.svg?style=for-the-badge&logo=Slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-ff279c.svg?style=for-the-badge&logo=Figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Zeplin-ff981f.svg?style=for-the-badge&logo=Zeplin&logoColor=white" />&nbsp
 </div>
 
 <h3 align="left">📚 Dev blog </h3>
