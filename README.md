@@ -1,4 +1,7 @@
-### Hi there 🙂
+# Hi, I'm Seongwook Woo 🙂
+
+
+
 
 <h3 align="left"> 💻 Tech Stack</h3>
 <div align="left">
